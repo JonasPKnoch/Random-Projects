@@ -5,6 +5,7 @@ void setup() {
   colorMode(RGB, 100);
   background(0);
   generateRandom();
+  save("Wallpaper.png");
 
   //exit();
 }
